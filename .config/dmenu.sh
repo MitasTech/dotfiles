@@ -1,0 +1,1 @@
+dmenu_run -i -nb '#191919' -nf '#0ABDC6' -sb '#D300C4' -sf '#191919' -fn 'NotoMonoRegular:bold:pixelsize=14'
