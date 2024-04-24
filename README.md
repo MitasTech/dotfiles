@@ -5,7 +5,7 @@
 
 
 |     Qtile   | Hyprland | Qtile-Terminal | Hyprland-Terminal 
-|:-------------:|:-------------:|:-------------:|
-|![](./Screenshots//Qtile-WM.png)|![](./Screenshots/Hyprland-1.png)|![](./Screenshots/Qtile-Terminal.png)|![](./Screenshots/Hyprland-2.png)
+|:-------------:|:-------------:|:-------------:|:
+|![](./Screenshots//Qtile-WM.png)|![](./Screenshots/Hyprland-2.png)|![](./Screenshots/Qtile-Terminal.png)|![](./Screenshots/Hyprland-1.png)
 
 ```
