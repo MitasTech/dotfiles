@@ -10,3 +10,5 @@
 |![](./Screenshots//Qtile-WM.png)|![](./Screenshots/Hyprland-2.png)
 |![](./Screenshots/Qtile-Terminal.png)|![](./Screenshots/Hyprland-1.png)
 ```
+git clone https://github.com/MitasTech/dotfiles
+```
