@@ -5,8 +5,8 @@
 
 [Window Managers]
 
-|     Qtile   | Hyprland | Qtile-Terminal | Hyprland-Terminal |
-|:-------------:|:-------------:|:-------------:|:-------------:|
+|     Qtile   | Hyprland | 
+|:-------------:|:-------------:|
 |![](./Screenshots//Qtile-WM.png)|![](./Screenshots/Hyprland-2.png)
 |![](./Screenshots/Qtile-Terminal.png)|![](./Screenshots/Hyprland-1.png)
 ```
